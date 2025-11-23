@@ -15,9 +15,6 @@
   <a href="https://github.com/notiamsam">
     <img src="https://github-readme-stats.vercel.app/api?username=notiamsam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
   </a>
-  <a href="https://github.com/notiamsam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notiamsam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
-  </a>
 
 </div>
 
