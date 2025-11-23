@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=450&lines=Hi+there!+%F0%9F%91%8B+I'm+Sam;AI+%2F+GenAI+Engineer;Building+Agentic+Systems;Turning+Ideas+into+Reality" alt="Typing SVG - Hi there! I'm Sam; AI / GenAI Engineer; Building Agentic Systems; Turning Ideas into Reality" />
 </div>
 
-<h3 align="center">🚀 From **Full Stack** to **Full AI**: Architecting the next generation of intelligent systems.</h3>
+<h3 align="center">🚀 From **Full Stack to Full AI:** Architecting the next generation of intelligent systems.</h3>
 
 ---
 
